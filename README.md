@@ -5,7 +5,7 @@ Project of library website create with Laravel framework and Bootstrap. Project 
 Website Administrator can set book status to borrowed. Additional functionalities: add books opinions, editing users own opinions and removing it. 
 Every guest can browse and search books in catalog, but can not see books availability and opinions. 
 
-Before first server start create datebase and execute following commands: 
+Before first server start create database and execute following commands: 
 <ul>
 <li>php artisan migrate</li>
 <li>php artisan db:seed</li>
