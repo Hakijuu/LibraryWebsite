@@ -17,9 +17,8 @@ class CreateBooksTable extends Migration
             $table->increments('id');
             $table->integer('author_id')->unsigned();
             $table->string('title');
-            $table->string('quantity_of_copies');
+            $table->integer('quantity_of_copies');
             $table->timestamps();
-
             $table->foreign('author_id')->references('id')->on('authors');
         });
     }

@@ -3,16 +3,17 @@
     <hr>
     <address>
         <strong>Biblioteka</strong>
-        <br>ul. Okrzei 23
-        <br>22-300, Krasnystaw
+        <br>ul. Ulica 1
+        <br>xx-xxx, Miasto
         <br>
     </address>
     <address>
         <abbr title="Phone">Telofon:</abbr>
-        764 582 645
+        222 222 222
         <br>
         <abbr title="Email">E-mail:</abbr>
         <a href="mailto:#">biblioteka@example.com</a>
     </address>
 </div>
+
 
